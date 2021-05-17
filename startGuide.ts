@@ -10,5 +10,3 @@ export function webGuide(input: string[]) {
     window.allHtmlElements = [];
     guideInit(input);
 }
-
-// document.getElementById("guide").addEventListener("click",()=>guide(["prva", "druha", "tretia", "stvrta"]));
