@@ -10,7 +10,7 @@ link or download it directly to your project.
 ### Installation
 You can acquire local copy to your project from:
 1. The github repository from this [link](www.google.com)
-2. Using npm ```npm install GuideTS```
+2. Using npm ```npm install WebGuide```
 
 ### Setup & Start
 After the download of the source, you need to link the library 
