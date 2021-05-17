@@ -6,7 +6,6 @@ export function finishGuide() {
         bodyElement.style.opacity = "1";
         bodyElement.removeAttribute("data-background");
         bodyElement.removeAttribute("data-color");
-        // bodyElement.style.background = "rgba(255, 255, 255, 0)";
         allHtmlElements.forEach(element => {
             element.style.background = element.getAttribute("data-background");
             element.style.color = element.getAttribute("data-color");
