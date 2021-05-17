@@ -35,7 +35,7 @@ file to your page. The library has three main parts
 
      ```
       let messages=[ “this is my first message“ , “second one“ , ... , “this will be end of the guide“ ];
-      guide(messages);
+      webGuide(messages);
     ```
   
   ### Optional
