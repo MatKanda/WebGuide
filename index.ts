@@ -7,5 +7,3 @@ export * from './animations';
 
 // @ts-ignore
 window.webGuide=webGuide;
-
-//document.getElementById("guide").addEventListener("click",()=>guide(["prva", "druha", "tretia", "stvrta"]));
