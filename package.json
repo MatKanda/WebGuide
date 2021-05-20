@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web library for creating website guide using pop-up windows.",
   "main": "WebGuide.js",
-  "keywords": ["TypeScript","Tutorial","Intro"],
+  "keywords": ["TypeScript","Tutorial","Intro","WebGuide"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MatKanda/WebGuide"
