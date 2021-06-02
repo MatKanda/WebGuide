@@ -6,7 +6,7 @@ showing and hiding of elements as well as pop-up windows.
 ### Installation
 You can acquire local copy to your project from:
 1. The github repository from this [link](https://github.com/MatKanda/WebGuide)
-2. Using npm ```npm install WebGuide```
+2. Using npm ```npm install webguide```
 
 ### Setup & Start
 After the download of the source, you need to link the library 
