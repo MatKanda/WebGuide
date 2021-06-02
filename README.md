@@ -1,5 +1,5 @@
 ### Dependencies
-GuideTS has just one dependency and it's jQuery. It's used to animate 
+WebGuide has just one dependency and it's jQuery. It's used to animate 
 showing and hiding of elements as well as pop-up windows. 
 
 
